@@ -40,7 +40,7 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
@@ -67,7 +67,7 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 &nbsp;Featured Project
+## &nbsp;Featured Project
 
 <div align="center">
 
@@ -81,7 +81,7 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 
 <div align="center">
 
-> **🛡️ ProxyFlow** – Schützt deinen Velocity-Proxy mit einer Firewall gegen **VPNs**, **Bots** und **Multi-Accounts**.
+> ** ProxyFlow** – Schützt deinen Velocity-Proxy mit einer Firewall gegen **VPNs**, **Bots** und **Multi-Accounts**.
 > 
 > Konfigurierbarer Länder-Blocker • Automatische Bestrafung bei Verstößen • Folia & Spigot Support
 
@@ -101,7 +101,7 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -130,7 +130,7 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📫 &nbsp;Connect With Me
+## &nbsp;Connect With Me
 
 <div align="center">
 
