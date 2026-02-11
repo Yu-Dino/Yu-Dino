@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Nicht+immer+der+sicherste...;...aber+sicher+wenns+drauf+ankommt.+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Nicht+immer+der+sicherste...;...aber+sicher+wenns+drauf+ankommt." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE VIEWS -->
@@ -23,11 +23,11 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## &nbsp;About Me
 
 ```yaml
 name: Yu
-location: Germany 🇩🇪
+location: Germany
 age: 15
 website: YuFlow.net
 
@@ -88,13 +88,13 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 <br/>
 
 <a href="https://github.com/Yu-Dino/ProxyFlow">
-  <img src="https://img.shields.io/badge/🔗_Velocity_Plugin-ProxyFlow-1f6feb?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Velocity_Plugin-ProxyFlow-1f6feb?style=for-the-badge&labelColor=0d1117"/>
 </a>
 <a href="https://github.com/Yu-Dino/ProxyFlow-Spigot">
-  <img src="https://img.shields.io/badge/🔗_Spigot_Bridge-ProxyFlow--Spigot-ED8106?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Spigot_Bridge-ProxyFlow--Spigot-ED8106?style=for-the-badge&labelColor=0d1117"/>
 </a>
 <a href="https://github.com/Yu-Dino/ProxyFlow-Folia">
-  <img src="https://img.shields.io/badge/🔗_Folia_Bridge-ProxyFlow--Folia-8957e5?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Folia_Bridge-ProxyFlow--Folia-8957e5?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
 </div>
@@ -123,6 +123,10 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 <a href="https://github.com/Yu-Dino">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yu-Dino&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Yu's%20Contribution%20Graph" alt="Contribution Graph"/>
 </a>
+
+<!-- SNAKE ANIMATION -->
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Yu-Dino/Yu-Dino/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -160,7 +164,7 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⡿⠿⠛⠛⠛⠛⠛⠛⠛⠛⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀  Thanks for visiting!  ⠀⠀⠀⠀⠈⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⭐ Star my repos if you like them!    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      Star my repos if you like them!    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 </div>
