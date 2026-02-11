@@ -128,27 +128,6 @@ fun_fact: "Started coding at 13, now protecting servers at 15"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yu-Dino/Yu-Dino/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yu-Dino/Yu-Dino/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Yu-Dino/Yu-Dino/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-> 💡 **Tipp:** Um die Snake-Animation zu aktivieren, erstelle eine GitHub Action in deinem Profil-Repo.
-> Details findest du unter [snk](https://github.com/Platane/snk).
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yu-Dino&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📫 &nbsp;Connect With Me
